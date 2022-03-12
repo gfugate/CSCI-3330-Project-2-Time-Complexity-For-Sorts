@@ -5,8 +5,21 @@
 
 This file is used to impliment all 4 different sorting methods which include bubble sort, merge sort, quick sort, and selection sort. 
 
-"""
 
+@Citations: 
+    Quick Sort Algorithm - medium.com
+    (https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889)
+    
+    Bubble Sort Algorithm - medium.com
+    (https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889)
+    
+    Merge Sort Algorithm - geeksforgeeks.org
+    (https://www.geeksforgeeks.org/merge-sort/)
+    
+    Selection Sort Algorithm - medium.com
+    (https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889)
+    
+"""
 # Bubble Sort
 def bubble_sort(arr):
     def swap(i, j):
